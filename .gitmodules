@@ -1,0 +1,3 @@
+[submodule "jpa_hibernate"]
+	path = jpa_hibernate
+	url = https://github.com/AdilsonVicente/jpa_hibernate.git
